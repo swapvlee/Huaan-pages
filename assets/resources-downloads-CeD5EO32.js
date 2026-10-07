@@ -1,0 +1,1 @@
+var e=[`产品手册`,`工具软件`,`驱动程序`,`方案模板`,`宣传物料`],t={产品手册:`ri-book-read-line`,工具软件:`ri-tools-line`,驱动程序:`ri-cpu-line`,方案模板:`ri-file-copy-2-line`,宣传物料:`ri-image-line`};export{t as n,e as t};
